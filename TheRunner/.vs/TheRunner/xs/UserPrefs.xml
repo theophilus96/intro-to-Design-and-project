@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{E88C7393-7455-EF70-33A4-BE1D91CFD3EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GameState.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Candy.cs" Line="15" Column="20" />
+      <File FileName="Assets/Scripts/CharacterRotateMovement.cs" Line="122" Column="6" />
+      <File FileName="Assets/Scripts/CharacterSidewaysMovement.cs" Line="127" Column="58" />
+      <File FileName="Assets/Scripts/Constants.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Dialogue.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/DialogueManager.cs" Line="43" Column="20" />
+      <File FileName="Assets/Scripts/DialogueTrigger.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="36" Column="6" />
+      <File FileName="Assets/Scripts/GameState.cs" Line="10" Column="1" />
+      <File FileName="Assets/Scripts/IntroLevel.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/Obstacle.cs" Line="13" Column="10" />
+      <File FileName="Assets/Scripts/PathSpawnCollider.cs" Line="32" Column="14" />
+      <File FileName="Assets/Scripts/RandomMaterial.cs" Line="26" Column="22" />
+      <File FileName="Assets/Scripts/RedBorder.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/StuffSpawner.cs" Line="48" Column="6" />
+      <File FileName="Assets/Scripts/SwipeCollider.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/TimeDestroyer.cs" Line="23" Column="1" />
+      <File FileName="Assets/Scripts/UIManager.cs" Line="63" Column="39" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

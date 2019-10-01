@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BitGem/Police_Officer_SC/police_officer_SC.unity
+  isLoaded: 1
+  isActive: 1
